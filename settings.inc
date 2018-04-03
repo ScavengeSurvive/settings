@@ -14,6 +14,8 @@
 #include <logger>
 #include <ini>
 
+#include "settings_version"
+
 
 stock GetSettingInt(file[], key[], defaultValue, &output, logged = true, openfile = true) {
 	if(openfile) {
