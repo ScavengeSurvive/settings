@@ -3,5 +3,5 @@
 // To update the version number for a new release, run "sampctl package release"
 
 #define SETTINGS_VERSION_MAJOR (1)
-#define SETTINGS_VERSION_MINOR (0)
+#define SETTINGS_VERSION_MINOR (1)
 #define SETTINGS_VERSION_PATCH (0)
